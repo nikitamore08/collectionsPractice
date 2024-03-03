@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author alokr
+ *
+ */
+module collections {
+}
